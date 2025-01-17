@@ -1,0 +1,6 @@
+1, Alice, 30
+2, Bob, 25
+3, Alice, 22
+4, Charlie, 35
+5, Bob, 28
+6, Alice, 25
